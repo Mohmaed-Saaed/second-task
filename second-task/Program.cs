@@ -11,7 +11,7 @@ namespace second_task
 
             int numberToAddToTheList = 0;
             int listSum = 0;
-            int getLargestValueInTheList = 0;
+            int getLargestValueInTheList = 0; 
             int getSmallestValueInTheList = 0;
             int FindNumber = 0;
 
@@ -210,7 +210,7 @@ namespace second_task
                         break;
 
                     case 'Q':
-                        Console.WriteLine("Good Bye");
+                        Console.WriteLine("\n\tGood Bye");
                         break;
 
                     default:
